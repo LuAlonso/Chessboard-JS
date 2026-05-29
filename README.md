@@ -1,1 +1,1 @@
-Simple JavaScript program that generates an 8x8 chessboard pattern using # and spaces. It determines the placement of each character based on whether the sum of the row and column indices is even or odd.
+Simple JavaScript program that generates an 8x8 chessboard pattern using # and spaces and then determines the placement of each character based on whether the sum of the row and column indices is even or odd.
